@@ -1,4 +1,4 @@
-# NepalShop-Django-Ecommerce
+# Django-EcommerceWebsite
 This is my  project on Django Framework contains functions, Classes, Templates. and View. 
 
 While not all requirements have been met, the project serves as a dynamic foundation that can evolve and incorporate exciting new features in the future.
